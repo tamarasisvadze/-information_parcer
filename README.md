@@ -1,2 +1,2 @@
-# data_parcer
+# info_parcer
 python, requests, csv 
